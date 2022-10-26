@@ -3,10 +3,10 @@
 A simple to-do list that demonstrates the ability for the user to Sign-up, Sign-in, Add items and Delete items, connected to a database to be able to save your information in the cloud.
 
 # Built With
-*React 
-*NodeJS
-*Express
-*MongoDB
+* React 
+* NodeJS
+* Express
+* MongoDB
 
 # Installation
 1. Clone the repo
